@@ -28,7 +28,7 @@ This Android application is a simple yet effective note-taking app that allows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/note-taking-app.git
+   git clone https://github.com/tharumax123/Android-note-app.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
